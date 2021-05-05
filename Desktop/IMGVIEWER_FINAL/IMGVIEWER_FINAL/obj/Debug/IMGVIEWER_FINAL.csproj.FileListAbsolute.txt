@@ -1,0 +1,12 @@
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.csprojAssemblyReference.cache
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.Form1.resources
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.frmView.resources
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.frmSlide.resources
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.Properties.Resources.resources
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.csproj.GenerateResource.cache
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\bin\Debug\IMGVIEWER_FINAL.exe.config
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\bin\Debug\IMGVIEWER_FINAL.exe
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\bin\Debug\IMGVIEWER_FINAL.pdb
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.exe
+C:\Users\adisa\source\repos\IMGVIEWER_FINAL\IMGVIEWER_FINAL\obj\Debug\IMGVIEWER_FINAL.pdb
