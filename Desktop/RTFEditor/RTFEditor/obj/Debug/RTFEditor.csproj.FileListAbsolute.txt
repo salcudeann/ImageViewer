@@ -1,0 +1,11 @@
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\bin\Debug\RTFEditor.exe.config
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\bin\Debug\RTFEditor.exe
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\bin\Debug\RTFEditor.pdb
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.csprojAssemblyReference.cache
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.Form1.resources
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.Properties.Resources.resources
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.csproj.GenerateResource.cache
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.csproj.CoreCompileInputs.cache
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.exe
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.pdb
+C:\Users\adisa\source\repos\17.12\RTFEditor\RTFEditor\obj\Debug\RTFEditor.MyAboutBox.resources
